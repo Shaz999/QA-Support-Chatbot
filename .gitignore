@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data and vector stores
+data/
+vectorstore/
+New folder/
+
+# FAISS index files
+*.faiss
+index.faiss
+
+# Logs
+*.log
